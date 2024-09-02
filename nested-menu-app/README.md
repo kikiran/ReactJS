@@ -1,6 +1,7 @@
 # React
 
-![Uploading screen-capture (2).gif…]()
+![screen-capture (2)](https://github.com/user-attachments/assets/47a03bda-039e-492b-bebd-619432a4f046)
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
